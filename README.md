@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **backend and advanced flutter**
 
-- 📝 I regularly write articles on [@mobile_developer_notes](@mobile_developer_notes)
+- 📝 I regularly write articles on [@mobile_developer_notes](https://t.me/mobile_developer_notes)
 
 - 💬 Ask me about **android, flutter, data structures**
 
