@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **abdulbosit9730@gmail.com**
 
-- 📄 Know about my experiences [https://firebasestorage.googleapis.com/v0/b/asaxiybooks-4e1aa.appspot.com/o/booksImage%2FAbdulbasit's%20resume.pdf?alt=media&token=1186c818-f858-4c56-9233-d3896932a978](https://firebasestorage.googleapis.com/v0/b/asaxiybooks-4e1aa.appspot.com/o/booksImage%2FAbdulbasit's%20resume.pdf?alt=media&token=1186c818-f858-4c56-9233-d3896932a978)
-
 - ⚡ Fun fact **🌟 Always looking for the bright side of every challenge. Optimism fuels my passion for creating innovative and impactful solutions.**
 
 ### Blogs posts
