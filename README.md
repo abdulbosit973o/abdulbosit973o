@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbosit973o" alt="abdulbosit973o" /></a> </p>
 
-- 🔭 I’m currently working on **CRM App**
+- 🔭 I’m currently working on **Upwork**
 
-- 🌱 I’m currently learning **backend and advanced flutter**
+- 🌱 I’m currently learning ****backend** and **advanced flutter****
 
 - 📝 I regularly write articles on [@mobile_developer_notes](https://t.me/mobile_developer_notes)
 
 - 💬 Ask me about **android, flutter, data structures**
 
-- 📫 How to reach me **abdulbosit9730@gmail.com**
+- 📫 How to reach me **abdulbasitmakhsudov@gmail.com**
 
 - ⚡ Fun fact **🌟 Always looking for the bright side of every challenge. Optimism fuels my passion for creating innovative and impactful solutions.**
 
